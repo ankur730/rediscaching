@@ -1,0 +1,19 @@
+{
+  "name": "rediscache",
+  "version": "1.0.0",
+  "description": "rediscachehw4",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "ankur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
